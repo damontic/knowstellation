@@ -21,5 +21,5 @@ func Serve(args []string) (bool, error) {
 
 func rootHandler(w http.ResponseWriter, r *http.Request) {
 	log.Printf("%s\n", r.RequestURI)
-	w.Write([]byte("hello"))
+	w.Write([]byte("hello<br>"))
 }
