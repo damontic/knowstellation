@@ -1,0 +1,6 @@
+github.com/damontic/knowstellation v0.0.0-20191025030219-8a72ae3c60a1 h1:1djqvH03joUbIezm4fiGN6uqcepZ+vuG37WFcmKVYs8=
+github.com/damontic/knowstellation v0.0.0-20191025030219-8a72ae3c60a1/go.mod h1:t0yTrk+nrXmJ1kySbxpl3C1cK3/qKZpj40GjoLSw94w=
+github.com/damontic/knowstellation v0.0.0-20191025033119-50b208cc7605 h1:GKmKVBZapIxGflcKd4KxAUac49Soeek27VJ5oInuSco=
+github.com/damontic/knowstellation v0.0.0-20191025033119-50b208cc7605/go.mod h1:t0yTrk+nrXmJ1kySbxpl3C1cK3/qKZpj40GjoLSw94w=
+github.com/gorilla/mux v1.7.3 h1:gnP5JzjVOuiZD07fKKToCAOjS0yOpj/qPETTXCCS6hw=
+github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=

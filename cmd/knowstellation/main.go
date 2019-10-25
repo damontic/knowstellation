@@ -13,6 +13,8 @@ func main() {
 	switch args[0] {
 	case "serve":
 		server.Serve(args)
+	case "server":
+		server.Serve(args)
 	default:
 		endpoint := args[0]
 		client.NewClient(endpoint)
